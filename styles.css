@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .resume-container {
+    max-width: 500px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
+  button {
+    padding: 10px 15px;
+    background-color: rgb(255, 217, 0);
+    color: #333;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color:rgb(255, 204, 0);
+  }
+  
